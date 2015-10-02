@@ -24,7 +24,7 @@ namespace GildedRose.Tests
 
             CombinationApprovals.VerifyAllCombinations(
                 (name, sellIn, quality) =>
-                { 
+                {
                     var items = new List<Item>();                    
                     var item = new Item { Name = name, SellIn = sellIn, Quality = quality };
                     items.Add(item);
