@@ -1,0 +1,1050 @@
+﻿[,-2147483648,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = 2147483647
+    Quality = -2147483648
+}
+[,-2147483648,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = 2147483647
+    Quality = -1
+}
+[,-2147483648,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = 2147483647
+    Quality = 0
+}
+[,-2147483648,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = 2147483647
+    Quality = 0
+}
+[,-2147483648,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = 2147483647
+    Quality = 2147483646
+}
+[,-1,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = -2
+    Quality = -2147483648
+}
+[,-1,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = -2
+    Quality = -1
+}
+[,-1,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = -2
+    Quality = 0
+}
+[,-1,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = -2
+    Quality = 0
+}
+[,-1,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = -2
+    Quality = 2147483645
+}
+[,0,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = -1
+    Quality = -2147483648
+}
+[,0,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = -1
+    Quality = -1
+}
+[,0,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = -1
+    Quality = 0
+}
+[,0,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = -1
+    Quality = 0
+}
+[,0,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = -1
+    Quality = 2147483645
+}
+[,1,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = 0
+    Quality = -2147483648
+}
+[,1,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = 0
+    Quality = -1
+}
+[,1,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = 0
+    Quality = 0
+}
+[,1,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = 0
+    Quality = 0
+}
+[,1,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = 0
+    Quality = 2147483646
+}
+[,2147483647,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = 2147483646
+    Quality = -2147483648
+}
+[,2147483647,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = 2147483646
+    Quality = -1
+}
+[,2147483647,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = 2147483646
+    Quality = 0
+}
+[,2147483647,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = 2147483646
+    Quality = 0
+}
+[,2147483647,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = ""
+    SellIn = 2147483646
+    Quality = 2147483646
+}
+[a,-2147483648,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = 2147483647
+    Quality = -2147483648
+}
+[a,-2147483648,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = 2147483647
+    Quality = -1
+}
+[a,-2147483648,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = 2147483647
+    Quality = 0
+}
+[a,-2147483648,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = 2147483647
+    Quality = 0
+}
+[a,-2147483648,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = 2147483647
+    Quality = 2147483646
+}
+[a,-1,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = -2
+    Quality = -2147483648
+}
+[a,-1,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = -2
+    Quality = -1
+}
+[a,-1,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = -2
+    Quality = 0
+}
+[a,-1,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = -2
+    Quality = 0
+}
+[a,-1,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = -2
+    Quality = 2147483645
+}
+[a,0,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = -1
+    Quality = -2147483648
+}
+[a,0,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = -1
+    Quality = -1
+}
+[a,0,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = -1
+    Quality = 0
+}
+[a,0,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = -1
+    Quality = 0
+}
+[a,0,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = -1
+    Quality = 2147483645
+}
+[a,1,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = 0
+    Quality = -2147483648
+}
+[a,1,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = 0
+    Quality = -1
+}
+[a,1,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = 0
+    Quality = 0
+}
+[a,1,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = 0
+    Quality = 0
+}
+[a,1,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = 0
+    Quality = 2147483646
+}
+[a,2147483647,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = 2147483646
+    Quality = -2147483648
+}
+[a,2147483647,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = 2147483646
+    Quality = -1
+}
+[a,2147483647,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = 2147483646
+    Quality = 0
+}
+[a,2147483647,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = 2147483646
+    Quality = 0
+}
+[a,2147483647,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "a"
+    SellIn = 2147483646
+    Quality = 2147483646
+}
+[abc,-2147483648,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = 2147483647
+    Quality = -2147483648
+}
+[abc,-2147483648,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = 2147483647
+    Quality = -1
+}
+[abc,-2147483648,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = 2147483647
+    Quality = 0
+}
+[abc,-2147483648,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = 2147483647
+    Quality = 0
+}
+[abc,-2147483648,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = 2147483647
+    Quality = 2147483646
+}
+[abc,-1,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = -2
+    Quality = -2147483648
+}
+[abc,-1,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = -2
+    Quality = -1
+}
+[abc,-1,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = -2
+    Quality = 0
+}
+[abc,-1,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = -2
+    Quality = 0
+}
+[abc,-1,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = -2
+    Quality = 2147483645
+}
+[abc,0,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = -1
+    Quality = -2147483648
+}
+[abc,0,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = -1
+    Quality = -1
+}
+[abc,0,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = -1
+    Quality = 0
+}
+[abc,0,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = -1
+    Quality = 0
+}
+[abc,0,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = -1
+    Quality = 2147483645
+}
+[abc,1,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = 0
+    Quality = -2147483648
+}
+[abc,1,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = 0
+    Quality = -1
+}
+[abc,1,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = 0
+    Quality = 0
+}
+[abc,1,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = 0
+    Quality = 0
+}
+[abc,1,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = 0
+    Quality = 2147483646
+}
+[abc,2147483647,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = 2147483646
+    Quality = -2147483648
+}
+[abc,2147483647,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = 2147483646
+    Quality = -1
+}
+[abc,2147483647,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = 2147483646
+    Quality = 0
+}
+[abc,2147483647,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = 2147483646
+    Quality = 0
+}
+[abc,2147483647,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "abc"
+    SellIn = 2147483646
+    Quality = 2147483646
+}
+[	,-2147483648,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = 2147483647
+    Quality = -2147483648
+}
+[	,-2147483648,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = 2147483647
+    Quality = -1
+}
+[	,-2147483648,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = 2147483647
+    Quality = 0
+}
+[	,-2147483648,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = 2147483647
+    Quality = 0
+}
+[	,-2147483648,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = 2147483647
+    Quality = 2147483646
+}
+[	,-1,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = -2
+    Quality = -2147483648
+}
+[	,-1,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = -2
+    Quality = -1
+}
+[	,-1,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = -2
+    Quality = 0
+}
+[	,-1,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = -2
+    Quality = 0
+}
+[	,-1,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = -2
+    Quality = 2147483645
+}
+[	,0,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = -1
+    Quality = -2147483648
+}
+[	,0,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = -1
+    Quality = -1
+}
+[	,0,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = -1
+    Quality = 0
+}
+[	,0,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = -1
+    Quality = 0
+}
+[	,0,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = -1
+    Quality = 2147483645
+}
+[	,1,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = 0
+    Quality = -2147483648
+}
+[	,1,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = 0
+    Quality = -1
+}
+[	,1,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = 0
+    Quality = 0
+}
+[	,1,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = 0
+    Quality = 0
+}
+[	,1,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = 0
+    Quality = 2147483646
+}
+[	,2147483647,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = 2147483646
+    Quality = -2147483648
+}
+[	,2147483647,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = 2147483646
+    Quality = -1
+}
+[	,2147483647,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = 2147483646
+    Quality = 0
+}
+[	,2147483647,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = 2147483646
+    Quality = 0
+}
+[	,2147483647,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "	"
+    SellIn = 2147483646
+    Quality = 2147483646
+}
+[Aged Brie,-2147483648,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = 2147483647
+    Quality = -2147483647
+}
+[Aged Brie,-2147483648,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = 2147483647
+    Quality = 0
+}
+[Aged Brie,-2147483648,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = 2147483647
+    Quality = 1
+}
+[Aged Brie,-2147483648,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = 2147483647
+    Quality = 2
+}
+[Aged Brie,-2147483648,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = 2147483647
+    Quality = 2147483647
+}
+[Aged Brie,-1,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = -2
+    Quality = -2147483646
+}
+[Aged Brie,-1,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = -2
+    Quality = 1
+}
+[Aged Brie,-1,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = -2
+    Quality = 2
+}
+[Aged Brie,-1,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = -2
+    Quality = 3
+}
+[Aged Brie,-1,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = -2
+    Quality = 2147483647
+}
+[Aged Brie,0,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = -1
+    Quality = -2147483646
+}
+[Aged Brie,0,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = -1
+    Quality = 1
+}
+[Aged Brie,0,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = -1
+    Quality = 2
+}
+[Aged Brie,0,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = -1
+    Quality = 3
+}
+[Aged Brie,0,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = -1
+    Quality = 2147483647
+}
+[Aged Brie,1,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = 0
+    Quality = -2147483647
+}
+[Aged Brie,1,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = 0
+    Quality = 0
+}
+[Aged Brie,1,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = 0
+    Quality = 1
+}
+[Aged Brie,1,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = 0
+    Quality = 2
+}
+[Aged Brie,1,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = 0
+    Quality = 2147483647
+}
+[Aged Brie,2147483647,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = 2147483646
+    Quality = -2147483647
+}
+[Aged Brie,2147483647,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = 2147483646
+    Quality = 0
+}
+[Aged Brie,2147483647,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = 2147483646
+    Quality = 1
+}
+[Aged Brie,2147483647,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = 2147483646
+    Quality = 2
+}
+[Aged Brie,2147483647,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Aged Brie"
+    SellIn = 2147483646
+    Quality = 2147483647
+}
+[Backstage passes to a TAFKAL80ETC concert,-2147483648,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = 2147483647
+    Quality = -2147483645
+}
+[Backstage passes to a TAFKAL80ETC concert,-2147483648,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = 2147483647
+    Quality = 2
+}
+[Backstage passes to a TAFKAL80ETC concert,-2147483648,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = 2147483647
+    Quality = 3
+}
+[Backstage passes to a TAFKAL80ETC concert,-2147483648,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = 2147483647
+    Quality = 4
+}
+[Backstage passes to a TAFKAL80ETC concert,-2147483648,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = 2147483647
+    Quality = 2147483647
+}
+[Backstage passes to a TAFKAL80ETC concert,-1,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = -2
+    Quality = 0
+}
+[Backstage passes to a TAFKAL80ETC concert,-1,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = -2
+    Quality = 0
+}
+[Backstage passes to a TAFKAL80ETC concert,-1,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = -2
+    Quality = 0
+}
+[Backstage passes to a TAFKAL80ETC concert,-1,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = -2
+    Quality = 0
+}
+[Backstage passes to a TAFKAL80ETC concert,-1,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = -2
+    Quality = 0
+}
+[Backstage passes to a TAFKAL80ETC concert,0,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = -1
+    Quality = 0
+}
+[Backstage passes to a TAFKAL80ETC concert,0,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = -1
+    Quality = 0
+}
+[Backstage passes to a TAFKAL80ETC concert,0,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = -1
+    Quality = 0
+}
+[Backstage passes to a TAFKAL80ETC concert,0,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = -1
+    Quality = 0
+}
+[Backstage passes to a TAFKAL80ETC concert,0,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = -1
+    Quality = 0
+}
+[Backstage passes to a TAFKAL80ETC concert,1,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = 0
+    Quality = -2147483645
+}
+[Backstage passes to a TAFKAL80ETC concert,1,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = 0
+    Quality = 2
+}
+[Backstage passes to a TAFKAL80ETC concert,1,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = 0
+    Quality = 3
+}
+[Backstage passes to a TAFKAL80ETC concert,1,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = 0
+    Quality = 4
+}
+[Backstage passes to a TAFKAL80ETC concert,1,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = 0
+    Quality = 2147483647
+}
+[Backstage passes to a TAFKAL80ETC concert,2147483647,-2147483648] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = 2147483646
+    Quality = -2147483647
+}
+[Backstage passes to a TAFKAL80ETC concert,2147483647,-1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = 2147483646
+    Quality = 0
+}
+[Backstage passes to a TAFKAL80ETC concert,2147483647,0] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = 2147483646
+    Quality = 1
+}
+[Backstage passes to a TAFKAL80ETC concert,2147483647,1] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = 2147483646
+    Quality = 2
+}
+[Backstage passes to a TAFKAL80ETC concert,2147483647,2147483647] => new List<Item>()
+[0] = new Item()
+{
+    Name = "Backstage passes to a TAFKAL80ETC concert"
+    SellIn = 2147483646
+    Quality = 2147483647
+}
